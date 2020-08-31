@@ -17,4 +17,4 @@ Test set loss 20.760
 
 图像识别样例：
 
-![Image](https://github.com/SanketsuYoru/Bilibili_dynamic/blob/master/pics/4B4034C0-BF39-4540-9041-8C13BCE4C95B.png)
+![Image](https://github.com/SanketsuYoru/Voc2012_yolo3_tensorflow/blob/master/font/Figure_1.png)
